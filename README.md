@@ -6,7 +6,7 @@ I explored the official Kali Linux platform and setup lab environment.
 ## What I Did:
 
 I have successfully setup a Cybersecurity testing lab environment on my Laptop as per task requirements.
-
+During setup I faced an error but I fixed it and continued my lab setup.
 ### My Lab Setup Details:
 
 - I used VirtualBox latest version as my base platform
